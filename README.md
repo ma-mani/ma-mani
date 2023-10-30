@@ -1,9 +1,8 @@
-# Welcome to my page!
+# Welcome to my page! :smiley:
 
-I'm Mani, Web Developer from Berlin in Germany.
+I'm Mani, Web Developer from Berlin in Germany :Germany:.
 
-# Things i code with
+### Things i code with
 
-The background color is `#0969DA` for light mode and `#000000` for dark mode.
 
 
