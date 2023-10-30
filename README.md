@@ -22,3 +22,4 @@ I'm Mani, Web Developer Beginner from Berlin, Germany <img src="https://raw.gith
 <i class="programming lang-typescript"></i>
 <i class="programming lang-python"></i>
 <i class="programming lang-kotlyn"></i>
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
