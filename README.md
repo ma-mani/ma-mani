@@ -7,7 +7,7 @@ I'm Mani, Web Developer Beginner from Berlin, Germany <img src="https://raw.gith
 
 ### Things i code with
 
-- <div style="background-color:rgba(227, 76, 38)>HTML</div>;
+- <div style="background-color:rgba(227, 76, 38);>HTML</div>;
 - CSS
 - JavaScript
 - TypeScript
