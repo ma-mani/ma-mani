@@ -16,3 +16,4 @@ I'm Mani, Web Developer Beginner from Berlin, Germany <img src="https://raw.gith
 ---
 
 <span style="color:blue">some *blue* text</span>.
+$${\color{red}Red}$$
