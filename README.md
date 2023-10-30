@@ -4,5 +4,9 @@ I'm Mani, Web Developer Beginner from Berlin, Germany <img src="https://raw.gith
 
 ### Things i code with
 
-
+- Html
+- CSS
+- JavaScript
+- TypeScript
+- React
 
