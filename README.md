@@ -7,7 +7,7 @@ I'm Mani, Web Developer Beginner from Berlin, Germany <img src="https://raw.gith
 
 ### Things i code with
 
-- HTML
+- <span style="color:blue">HTML</span>
 - CSS
 - JavaScript
 - TypeScript
