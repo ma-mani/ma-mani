@@ -7,8 +7,8 @@ I'm Mani, Web Developer Beginner from Berlin, Germany <img src="https://raw.gith
 
 ### Things i code with
 
-- HTML
-- CSS
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - JavaScript
 - TypeScript
 - React
@@ -16,10 +16,5 @@ I'm Mani, Web Developer Beginner from Berlin, Germany <img src="https://raw.gith
 ---
 
 
-<i class="programming lang-ruby"></i>
-<i class="programming lang-javascript"></i>
-<i class="programming lang-cpp"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-kotlyn"></i>
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+
