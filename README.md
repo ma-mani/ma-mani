@@ -34,6 +34,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" **alt="Mongoose" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ma-mani&theme=dracula&border_radius=12.9)](https://git.io/streak-stats)
 
 
