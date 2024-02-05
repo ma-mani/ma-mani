@@ -39,7 +39,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ma-mani&theme=dracula&border_radius=12.9)](https://git.io/streak-stats)
-![Manis Github](https://github-readme-stats.vercel.app/api?username=ma-mani&show_icons=false&theme=dracula&border_radius=12.9)
+![Manis Github](https://github-readme-stats.vercel.app/api?username=ma-mani&theme=dracula&border_radius=12.9)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-mani&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
