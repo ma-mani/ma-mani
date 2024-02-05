@@ -1,5 +1,7 @@
 # Welcome to my page! :smiley:
 
+## My Name is Mani from Germany 
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI1dWc1NzU1am1iNDV6NXNkNnkwN3JqazAwNnkzN285YW5iOHp2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200" />
@@ -39,8 +41,6 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ma-mani&theme=dracula&border_radius=12.9)](https://git.io/streak-stats)
-![Manis Github](https://github-readme-stats.vercel.app/api?username=ma-mani&theme=dracula&border_radius=12.9)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-mani&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
