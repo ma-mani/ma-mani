@@ -8,11 +8,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ma-mani&style=flat-square&color=purple" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ma-mani&style=flat-square&color=Purple" alt=""/>
 </div>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
 
 
