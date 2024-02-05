@@ -1,6 +1,6 @@
 # Welcome to my page! :smiley:
 
-## My Name is Mani from Germany 
+### My Name is Mani from Germany 
 
 
 <div id="header" align="center">
