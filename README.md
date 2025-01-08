@@ -47,6 +47,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ma-mani&theme=dracula&border_radius=12.9)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-mani&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-https://www.codewars.com/users/ma-mani/badges/large
+### :trophy: Codewars Badge
+
+<div align="center">
+  <a href="https://www.codewars.com/users/ma-mani">
+    <img src="https://www.codewars.com/users/ma-mani/badges/large" alt="Codewars Badge" />
+  </a>
+</div>
 
 
